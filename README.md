@@ -1,5 +1,5 @@
 # Google Anayltics Capstone: Cyclistic Bike-share Analysis
-
+![bike picture](Image/dataset-cover.png)
 ## Introduction
 
 This is a Cyclistic bike share analysis case study from Google analytics Capstone, where I have performed real world task of a junior data analyst. In order to answer the business key questions I have followed the data analysis process: ask, prepare, process, analyze, share, and act.
