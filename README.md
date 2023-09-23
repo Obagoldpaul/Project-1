@@ -7,7 +7,7 @@ This is a Cyclistic bike share analysis case study from Google analytics Capston
 ## Quick links: 
 
 Data source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
-
+Script file: [Trip R script](https://github.com/Obagoldpaul/Project-1/blob/c65b97ea13ba47aaa022c7930d4d8ec7fa8ab2ad/Tripdata%20script.R)
 Presentation slide: [Cyclistic bike-share analysis](https://docs.google.com/presentation/d/1u2w5uaTBGS4g5sOd3TkKOMzUGtwTHZkjD8K3Pg3AJKc/edit?usp=sharing)
 
 ## Scenario
@@ -64,7 +64,8 @@ For this analysis **R** will be used to process, clean and analyze the data whil
 
 To determine and maintain the integrity of the data, pre-cleaning activities such as ensuring overall consistency, accuracy and completeness of data were carried out. To ensure the data is clean and ready for analysis, the following were carried out:
 
-#### **Rstudio** [R script]()
+#### **Rstudio** 
+[R script](https://github.com/Obagoldpaul/Project-1/blob/c65b97ea13ba47aaa022c7930d4d8ec7fa8ab2ad/Tripdata%20script.R)
 * **Make copy of datasets.**
 
 * **Connect objective to data.**
