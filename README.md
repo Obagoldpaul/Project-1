@@ -7,7 +7,13 @@ This is a Cyclistic bike share analysis case study from Google analytics Capston
 ## Quick links: 
 
 Data source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
 Script file: [Trip R script](https://github.com/Obagoldpaul/Project-1/blob/c65b97ea13ba47aaa022c7930d4d8ec7fa8ab2ad/Tripdata%20script.R)
+
+Tableau dashboard 1: [Cyclistic bike-share analysis 1](https://public.tableau.com/views/Tripdatacleaned/Analysis1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+Tableau dashboard 2: [Cyclistic bike-share analysis 2](https://public.tableau.com/views/Tripdatacleaned/Analysis2?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 Presentation slide: [Cyclistic bike-share analysis](https://docs.google.com/presentation/d/1u2w5uaTBGS4g5sOd3TkKOMzUGtwTHZkjD8K3Pg3AJKc/edit?usp=sharing)
 
 ## Scenario
@@ -188,3 +194,6 @@ The campaign should be targeted at casuals most used start and end stations. It 
 ## Presentation Slide
 
 Click [here](https://docs.google.com/presentation/d/1u2w5uaTBGS4g5sOd3TkKOMzUGtwTHZkjD8K3Pg3AJKc/edit?usp=sharing)
+
+
+**Thank You**
