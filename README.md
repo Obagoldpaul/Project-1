@@ -62,11 +62,22 @@ For this analysis **R** will be used to process, clean and analyze the data whil
 
 To determine and maintain the integrity of the data, pre-cleaning activities such as ensuring overall consistency, accuracy and completeness of data were carried out. To ensure the data is clean and ready for analysis, the following were carried out:
 
-#### **Rstudio**
+#### **Rstudio** [R script]()
 * **Make copy of datasets.**
 
 * **Connect objective to data.**
 
 * **Load the environment.**  
 Loading my environment with `readr`, `tidyverse`, `lubridate`, `skimr`.
-R code
+
+* **Import the data.**  
+Import individual data into the work space, 12 data sets were imported into the work space (August, 2022 to July, 2023).
+
+* **Check column names.**  
+Column names were checked to ensure consistency in names.There was consistency in the column names.
+
+* **Confirm datatype.**  
+Confirm datatype of columns in each data. The datatypes were consistent with the other datasets.
+
+* **Merge data.**  
+There 12 data sets were merged into a single dataframe.
