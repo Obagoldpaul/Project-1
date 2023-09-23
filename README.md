@@ -8,6 +8,8 @@ This is a Cyclistic bike share analysis case study from Google analytics Capston
 
 Data source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
+Presentation slide: [Cyclistic bike-share analysis](https://docs.google.com/presentation/d/1u2w5uaTBGS4g5sOd3TkKOMzUGtwTHZkjD8K3Pg3AJKc/edit?usp=sharing)
+
 ## Scenario
 
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of
